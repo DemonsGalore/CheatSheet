@@ -1,0 +1,7 @@
+PUTTY
+
+mongo --shell       Shell starten
+show dbs            Datenbanken anzeigen
+use database		    wechsel zu database (name der Datenbank)
+db.dropDatabase()   Datenbank löschen
+mongodump           Backup all Databases
