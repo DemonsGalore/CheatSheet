@@ -1,7 +1,9 @@
-=== disable line break ===
-white-space: nowrap;
+disable line break {
+  white-space: nowrap;
+}
 
-=== disable line break and hide content ===
-white-space: nowrap;
-overflow: hidden;
-text-overflow: ellipsis;
+disable line break and hide content {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
