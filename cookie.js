@@ -9,6 +9,6 @@ function getCookie(name) {
   if (parts.length == 2) return parts.pop().split(";").shift();
 }
 
-if (getCookie('lastRequest')) {
-  lastRequest.innerHTML = getCookie('lastRequest');
+if (getCookie('name')) {
+  
 }
