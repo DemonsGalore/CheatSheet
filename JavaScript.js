@@ -8,6 +8,17 @@ function sortNumber(a,b) {
 numArray.sort((a, b) => a - b); // For ascending sort
 numArray.sort((a, b) => b - a); // For descending sort
 
+== sort array of objects with date key ===
+meterReadings.sort((a,b) => {
+  // Turn your strings into dates, and then subtract them
+  // to get a value that is either negative, positive, or zero.
+  // desc
+  return new Date(b.date) - new Date(a.date);
+  // asc
+  // return new Date(b.date) - new Date(a.date);
+});
+
+
 === get value from css ===
 
 parseInt(window.getComputedStyle(element).getPropertyValue('padding'))
