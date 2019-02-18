@@ -18,6 +18,10 @@ meterReadings.sort((a,b) => {
   // return new Date(b.date) - new Date(a.date);
 });
 
+=== search min/max key/value in array of objects ===
+let res = Math.max.apply(Math, array(function(o) { return o.key;} ));
+let res = Math.min.apply(Math, array(function(o) { return o.key;} ));
+
 
 === get value from css ===
 
