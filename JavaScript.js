@@ -19,8 +19,8 @@ meterReadings.sort((a,b) => {
 });
 
 === search min/max key/value in array of objects ===
-let res = Math.max.apply(Math, array(function(o) { return o.key;} ));
-let res = Math.min.apply(Math, array(function(o) { return o.key;} ));
+let res = Math.max.apply(Math, array((object) => { return object.key;} ));
+let res = Math.min.apply(Math, array((object) => { return object.key;} ));
 
 
 === get value from css ===
