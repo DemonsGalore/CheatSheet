@@ -1,5 +1,5 @@
 // allow cross-origin
-app.use(cors()); // npm install --asve cors
+app.use(cors()); // npm install --save cors
 
 OR
 
