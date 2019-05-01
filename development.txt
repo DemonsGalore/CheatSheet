@@ -1,0 +1,3 @@
+==HTTPS in development==
+in cmd:
+set HTTPS=true&&npm start
