@@ -1,0 +1,18 @@
+  <div class="container">
+    <img id="image" src="" alt="" />
+  </div>
+  
+.container {
+  position: relative;
+  width: 100%;
+  height: static height?:
+}
+
+#image {
+  position: absolute;
+  width: 15rem;
+  height: 15rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-53%);
+}
