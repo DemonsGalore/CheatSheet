@@ -16,5 +16,6 @@ free version:
 https://github.com/mystroken/cachu-slider/
 
 Is in viewport?
+https://gomakethings.com/how-to-test-if-an-element-is-in-the-viewport-with-vanilla-javascript/
 https://vanillajstoolkit.com/helpers/isinviewport/
 
