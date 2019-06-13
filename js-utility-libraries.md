@@ -12,6 +12,8 @@ https://github.com/jhildenbiddle/css-vars-ponyfill
 
 Full page scroll (NOT FREE FOR COMMERCIAL):
 https://github.com/alvarotrigo/fullPage.js/
+free version:
+https://github.com/mystroken/cachu-slider/
 
 Is in viewport?
 https://vanillajstoolkit.com/helpers/isinviewport/
