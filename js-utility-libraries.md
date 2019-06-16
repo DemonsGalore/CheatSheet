@@ -22,3 +22,6 @@ Is in viewport?
 https://gomakethings.com/how-to-test-if-an-element-is-in-the-viewport-with-vanilla-javascript/
 https://vanillajstoolkit.com/helpers/isinviewport/
 
+https://github.com/FezVrasta/popper.js
+https://github.com/atomiks/tippyjs
+https://github.com/kamranahmedse/driver.js
