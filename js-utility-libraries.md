@@ -35,3 +35,6 @@ https://github.com/kamranahmedse/driver.js
 
 Gallery (NOT FREE FOR COMMERCIAL)
 https://github.com/sachinchoolur/lightgallery.js/
+
+Touch, responsive, flickable carousels (NOT FREE FOR COMMERCIAL):
+https://github.com/metafizzy/flickity
