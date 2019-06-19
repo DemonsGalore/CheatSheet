@@ -18,12 +18,14 @@ https://github.com/mystroken/cachu-slider/
 Animations:
 https://github.com/tictail/bounce.js
 
+
+lightbox gallery library:
+https://github.com/nextapps-de/spotlight
+
 Is in viewport?
 https://gomakethings.com/how-to-test-if-an-element-is-in-the-viewport-with-vanilla-javascript/
 
 https://vanillajstoolkit.com/helpers/isinviewport/
-
-
 
 
 https://github.com/FezVrasta/popper.js
