@@ -18,6 +18,8 @@ https://github.com/mystroken/cachu-slider/
 Animations:
 https://github.com/tictail/bounce.js
 
+Slider
+https://github.com/kenwheeler/slick/
 
 lightbox gallery library:
 https://github.com/nextapps-de/spotlight
