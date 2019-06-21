@@ -21,6 +21,9 @@ https://github.com/tictail/bounce.js
 Slider
 https://github.com/kenwheeler/slick/
 
+Parallax:
+https://github.com/dixonandmoe/rellax
+
 lightbox gallery library:
 https://github.com/nextapps-de/spotlight
 
