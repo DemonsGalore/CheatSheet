@@ -17,3 +17,9 @@ html {
 
 "darkmode"
 body:not(img) { filter: invert(100%) } 
+
+=== custom select arrow ===
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+background: url(http://www.stackoverflow.com/favicon.ico) 96% / 15% no-repeat;
