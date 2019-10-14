@@ -60,3 +60,6 @@ function formatDate(date) {
 
   return [day, month, year].join('.');
 }
+
+=== find index of an object by key and value in an array ===
+let index = peoples.findIndex(p => p.attr1 == "john")
